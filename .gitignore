@@ -1,2 +1,7 @@
 #ignore the audio data
 data
+saved
+
+#sys files
+.vscode
+.DS_store
